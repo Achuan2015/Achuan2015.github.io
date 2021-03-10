@@ -41,10 +41,7 @@ TODO
 
 
 ### reference
-[1] [原文：Keyword-Attentive Deep Semantic Matching](https://arxiv.org/pdf/2003.11516.pdf)
-
-[2] [文中提到的长文本匹配:Semantic Text Matching for Long-Form Documents](https://jyunyu.csie.org/docs/pubs/www2019paper.pdf)
-
-[3] [信息抽取中的距离特征参考：Relation Extraction Using Supervision from Topic Knowledge of Relation Labels. Proceedings of the Twenty-Eighth International Joint Con-ference on Artificial Intelligence](https://www.ijcai.org/Proceedings/2019/0698.pdf)
-
+[1] [原文：Keyword-Attentive Deep Semantic Matching](https://arxiv.org/pdf/2003.11516.pdf)   
+[2] [文中提到的长文本匹配:Semantic Text Matching for Long-Form Documents](https://jyunyu.csie.org/docs/pubs/www2019paper.pdf)  
+[3] [信息抽取中的距离特征参考：Relation Extraction Using Supervision from Topic Knowledge of Relation Labels. Proceedings of the Twenty-Eighth International Joint Con-ference on Artificial Intelligence](https://www.ijcai.org/Proceedings/2019/0698.pdf)  
 [4] [负采样思路参考：A strong baseline for question relevan-cy ranking](https://arxiv.org/pdf/1808.08836.pdf)
